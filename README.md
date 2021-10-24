@@ -134,4 +134,4 @@
 
 个人微信公众号：Python小二，右侧菜单栏有我个人微信。
 
-![](https://github.com/ityard/python-fxxk-spider/qrcode.jpg)
+![](https://github.com/ityard/python-fxxk-spider/blob/main/qrcode.jpg)
