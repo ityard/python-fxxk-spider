@@ -70,7 +70,6 @@
 * [Chrome历史记录爬虫](https://github.com/shengqiangzhang/examples-of-web-crawlers/tree/master/11.%E4%B8%80%E9%94%AE%E5%88%86%E6%9E%90%E4%BD%A0%E7%9A%84%E4%B8%8A%E7%BD%91%E8%A1%8C%E4%B8%BA(web%E9%A1%B5%E9%9D%A2%E5%8F%AF%E8%A7%86%E5%8C%96))
 * [微信读书爬虫](https://github.com/shengqiangzhang/examples-of-web-crawlers/tree/master/12.%E4%B8%80%E9%94%AE%E5%AF%BC%E5%87%BA%E5%BE%AE%E4%BF%A1%E8%AF%BB%E4%B9%A6%E7%9A%84%E4%B9%A6%E7%B1%8D%E5%92%8C%E7%AC%94%E8%AE%B0)
 * [链家网和贝壳网房价爬虫](https://github.com/jumper2014/lianjia-beike-spider)
-* [cnblogs爬虫]()
 * [淘宝、天猫商品爬虫](https://github.com/shjia/taobao_spider)
 * [girl13爬虫](https://github.com/xuelangcxy/girlCrawler)
 * [E绅士爬虫](https://github.com/shuiqukeyou/E-HentaiCrawler)
