@@ -2,11 +2,7 @@
 
 这里收集各种免费的 Python 爬虫项目资源，长期更新，欢迎大家 star、提 issue。
 
-爬虫项目可能会因爬取对象发生变化，无法直接进行爬取，如果遇到不能直接使用的项目，大家需要根据具体情况做相应修改。
-
-**爬虫虽好，但注意要合法使用！** 下面的仓库整理了中国大陆爬虫使用者涉诉与违规相关的新闻资料与法律法规，可以帮助大家了解我国相关法律，避免触碰数据合规红线。
-
-* [中国大陆爬虫使用者涉诉与违规相关的新闻资料与法律法规](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China)
+**爬虫项目可能会因爬取对象发生变化，无法直接进行爬取，如果遇到不能直接使用的项目，大家需要根据具体情况做相应修改。**
 
 ## 收录项目
 
@@ -127,11 +123,17 @@
 * [英雄联盟每日比赛列表爬虫](https://github.com/ChangxingJiang/CxSpider/tree/master/spider/Wanplus_Lol_Date_List)
 * [智联招聘爬虫](https://github.com/wqh0109663/JobSpiders)
 
+## 注意事项
+
+**爬虫虽好，但注意要合法使用！** 下面的仓库整理了中国大陆爬虫使用者涉诉与违规相关的新闻资料与法律法规，可以帮助大家了解我国相关法律，避免触碰数据合规红线。
+
+* [中国大陆爬虫使用者涉诉与违规相关的新闻资料与法律法规](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China)
+
 ## 更新记录
 
 * 2021-10-24 创建
 
-本内容持续更新，欢迎您[star 本项目](https://github.com/ityard/python-fxxk-spider)
+本内容持续更新，欢迎您 [star 本项目](https://github.com/ityard/python-fxxk-spider)
 
 ## 联系我
 
