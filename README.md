@@ -25,7 +25,7 @@
 * [知乎爬虫](https://mp.weixin.qq.com/s/WRKC9WVMMSqER0STGjIwbg)
 * [漫画喵爬虫](https://github.com/miaoerduo/cartoon-cat)
 * [马蜂窝爬虫](https://github.com/eternal-flame-AD/mafengwo)
-* [公众号爬虫](https://mp.weixin.qq.com/s/hbZUWjob1U06ugIKojdHqw)
+* [公众号文章爬虫](https://mp.weixin.qq.com/s/hbZUWjob1U06ugIKojdHqw)
 * [爱奇艺视频弹幕爬虫](https://mp.weixin.qq.com/s/1DDkqehBEZQdQ4JKG67GfQ)
 * [京东爬虫](https://github.com/taizilongxu/scrapy_jingdong)
 * [链家网爬虫](https://github.com/lanbing510/LianJiaSpider)
