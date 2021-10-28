@@ -6,6 +6,17 @@
 
 ## 收录项目
 
+* [百合网爬虫](https://github.com/ujiaqi/crawler-baihe)
+* [高德地图爬虫](https://github.com/fagan2888/amap_data)
+* [VIP音乐爬虫](https://github.com/weitw/vipMusic)
+* [小米应用商店爬虫](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/OthertCrawler/0x15xiaomiappshop)
+* [汽车之家爬虫](https://github.com/StuPeter/AutoHome_spider)
+* [ebay爬虫](https://github.com/Like-jian/ebay_spider)
+* [谷歌图片通用爬虫](https://github.com/Vaskka/GoogleCommonSpider)
+* [维基百科爬虫](https://github.com/LMFrank/CrawlerProject/tree/master/Wikipedia)
+* [百度百科爬虫](https://github.com/lzcdev/BaiDuBaiKeSpider)
+* [饿了么商家信息爬虫](https://github.com/brandonchow1997/Ele-Spider)
+* [美团APP爬虫](https://github.com/Miscf/meiTuan)
 * [豆瓣读书爬虫](https://github.com/lanbing510/DouBanSpider)
 * [B站用户爬虫](https://github.com/airingursb/bilibili-user)
 * [前程无忧爬虫](https://github.com/chenjiandongx/51job-spider)
@@ -26,7 +37,7 @@
 * [hao123网站爬虫](https://github.com/simapple/spider)
 * [百度云盘爬虫](https://github.com/k1995/BaiduyunSpider)
 * [爬虫代理IP池](https://github.com/jhao104/proxy_pool)
-* [博客园爬虫](https://github.com/Northxw/Python3_WebSpider/tree/master/01-Cnblogs)
+* [博客园爬虫](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/cnblog)
 * [朋友圈爬虫](https://github.com/Northxw/Python3_WebSpider/tree/master/05-Moments)
 * [网易客户端内容爬虫](https://github.com/leyle/163spider)
 * [机票爬虫（去哪儿和携程网）](https://github.com/fankcoder/findtrip)
@@ -122,6 +133,8 @@
 * [起点中文网小说列表爬虫](https://github.com/ChangxingJiang/CxSpider/tree/master/spider/Qidian_Book_Type_List)
 * [英雄联盟每日比赛列表爬虫](https://github.com/ChangxingJiang/CxSpider/tree/master/spider/Wanplus_Lol_Date_List)
 * [智联招聘爬虫](https://github.com/wqh0109663/JobSpiders)
+* [瓜子二手车爬虫](https://github.com/jiawei96-liu/second_hand_car)
+* [微信公众号爬虫](https://github.com/bowenpay/wechat-spider)
 
 ## 注意事项
 
