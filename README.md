@@ -134,7 +134,7 @@
 * [英雄联盟每日比赛列表爬虫](https://github.com/ChangxingJiang/CxSpider/tree/master/spider/Wanplus_Lol_Date_List)
 * [智联招聘爬虫](https://github.com/wqh0109663/JobSpiders)
 * [瓜子二手车爬虫](https://github.com/jiawei96-liu/second_hand_car)
-* [微信公众号爬虫](https://github.com/bowenpay/wechat-spider)
+* [微信公众号爬虫](https://github.com/wnma3mz/wechat_articles_spider)
 
 ## 注意事项
 
