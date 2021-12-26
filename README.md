@@ -64,7 +64,6 @@
 * [自如爬虫](https://github.com/dengqiangxi/ziroom_crawler)
 * [爱奇艺弹幕爬虫](https://mp.weixin.qq.com/s/1DDkqehBEZQdQ4JKG67GfQ)
 * [心灵毒鸡汤爬虫](https://github.com/sy-records/speech_spiders/tree/master/chicken-soup)
-* [H片爬虫](https://github.com/lonsty/xvideos-dl)
 * [雪球股票爬虫](https://github.com/decaywood/XueQiuSuperSpider)
 * [Youtube字幕爬虫](https://github.com/qwertyuiop6/get_youtube_subtitle)
 * [贝壳网租房信息爬虫](https://www.cnblogs.com/technology178/p/11087251.html)
