@@ -149,6 +149,4 @@
 
 ## 联系我
 
-微信公众号：Python小二，右侧菜单栏有我个人微信。
-
-![](https://ityard.github.io/img/qrcode.gif)
+微信公众号：Python小二
