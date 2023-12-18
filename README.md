@@ -135,6 +135,10 @@
 * [瓜子二手车爬虫](https://github.com/jiawei96-liu/second_hand_car)
 * [微信公众号爬虫](https://github.com/wnma3mz/wechat_articles_spider)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ityard/python-fxxk-spider&type=Date)](https://star-history.com/#ityard/python-fxxk-spider)
+
 ## 注意事项
 
 **爬虫虽好，但注意要合法使用！** 下面的仓库整理了中国大陆爬虫使用者涉诉与违规相关的新闻资料与法律法规，可以帮助大家了解我国相关法律，避免触碰数据合规红线。
